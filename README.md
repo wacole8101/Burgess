@@ -1,2 +1,3 @@
 # Burgess
-FileMaker system tracking George Washington's travels as a member of the Virginia House of Burgesses.  The application is written to work as a run-time.
+
+FileMaker system tracking George Washington's travels as a member of the Virginia House of Burgesses.  This is set as a run-time application.
